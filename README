@@ -1,2 +1,8 @@
 
-Readme 
+Readme
+
+Three files for this trie structure in objective c : main.m, trieNode.h and trieNode.m.
+In xcode, create a command line tool project under OS X.
+The project should create a default main.m.  Replace the main.m with the one in this repo
+and add both trieNode.h and trieNode.m into the project.
+ 
